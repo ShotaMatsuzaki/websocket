@@ -32,6 +32,7 @@ subdirectory](https://github.com/gorilla/websocket/tree/master/examples/autobahn
 
 ### Gorilla WebSocket compared with other packages
 
+
 <table>
 <tr>
 <th></th>
